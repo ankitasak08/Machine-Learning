@@ -18,7 +18,7 @@ The dataset used for training the model consists of historical data from previou
 
 ## Implementation
 
-The logistic regression model is implemented using Python and its libraries such as NumPy and Matplotlib . The model is trained on the historical data to learn the relationship between exam scores and admission outcomes.
+The logistic regression model is implemented using Python and its NumPy and Matplotlib libraries . The model is trained on the historical data to learn the relationship between exam scores and admission outcomes.
 
 ## Usage
 
